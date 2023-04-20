@@ -3,7 +3,7 @@
 # title: Getting Started
 # permalink: /gettingstarted/
 title: Getting Started
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 
 ---
 

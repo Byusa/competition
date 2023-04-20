@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 # permalink: /contact/
 ---
 

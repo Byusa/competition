@@ -3,7 +3,7 @@
 # title: Participate
 # permalink: /participate/
 title: Participate
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 ---
 
 # Participate

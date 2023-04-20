@@ -3,7 +3,7 @@
 # title: Leaderboard
 # permalink: /leaderboard/
 title: Leaderboard
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 ---
 
 # Leaderboard

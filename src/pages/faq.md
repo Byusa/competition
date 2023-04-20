@@ -2,7 +2,7 @@
 # layout: default
 title: FAQ
 # permalink: /faq/
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 # permalink: /contact/
 ---
 

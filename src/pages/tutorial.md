@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-layout: '../layouts/layout.astro'
+layout: '../layouts/Layout.astro'
 # permalink: /tutorial/
 ---
 
